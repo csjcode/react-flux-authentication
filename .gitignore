@@ -1,3 +1,6 @@
+src/components/App.js
+react-auth-server/server.js
+
 # Logs
 logs
 *.log
