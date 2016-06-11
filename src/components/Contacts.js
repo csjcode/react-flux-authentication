@@ -1,3 +1,5 @@
+// src/components/Contacts.js
+
 import React, { Component } from 'react';
 import { ListGroup } from 'react-bootstrap';
 // import { Link } from 'react-router';
